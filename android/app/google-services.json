@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "194589000999",
+    "project_id": "waste-eb978",
+    "storage_bucket": "waste-eb978.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194589000999:android:d8c90449422c292289d502",
+        "android_client_info": {
+          "package_name": "com.example.sampah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUoGEafyaLL0aLHskjo-PPxaxdwu3jiZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
